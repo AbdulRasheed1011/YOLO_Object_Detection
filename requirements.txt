@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+Pillow
+matplotlib
+argparse
+tensorflow-macos
+tensorflow-metal  # to enable GPU acceleration on M1 chip
+opencv-python
